@@ -31,8 +31,8 @@ Data was cleaned, preprocessed, and encoded before training the model.
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/sankalpvats/Car-Price-Predictor.git
+cd Car-Price-Predictor
 2️⃣ Install Dependencies
 bash
 Copy
