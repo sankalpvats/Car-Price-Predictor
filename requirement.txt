@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+xgboost
+flask  # If you plan to deploy using Flask
+fastapi  # If you want to use FastAPI for an API
+uvicorn  # For running FastAPI
+matplotlib  # If you need visualization
+seaborn  # For better plots
+jupyter  # If working in Jupyter Notebook
