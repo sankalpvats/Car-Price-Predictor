@@ -27,10 +27,12 @@ Data was cleaned, preprocessed, and encoded before training the model.
 🔹 GitHub (Version Control)
 
 🚀 How to Run Locally
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
+## 🛠️ Getting Started
+
+Follow these steps to run the project locally:
+
+ 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/sankalpvats/Car-Price-Predictor.git
 cd Car-Price-Predictor
 2️⃣ Install Dependencies
@@ -43,8 +45,9 @@ bash
 Copy
 Edit
 python app.py
-🌐 Open http://127.0.0.1:5000/ in your browser.
-
+🌐 Open in Browser
+Visit: http://127.0.0.1:5000
+```
 📌 Model Performance
 R² Score: 0.919
 Algorithm Used: XGBoost Regressor
